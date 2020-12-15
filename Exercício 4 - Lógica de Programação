@@ -1,0 +1,24 @@
+programa
+{
+	funcao inicio()
+	{
+		real janeiro,fevereiro,marco,abril,media,total
+		cadeia funcionario
+	
+		escreva("Digite o nome do funcionário")
+		leia(funcionario)
+		escreva("Digite as vendas de janeiro")
+		leia(janeiro)
+		escreva("Digite as vendas de fevereiro")
+		leia(fevereiro)
+		escreva("Digite as vendas de marco")
+		leia(marco)
+		escreva("Digite as vendas de abril")
+		leia(abril)
+		
+		total = janeiro + fevereiro + marco +  abril
+		media = total/4
+	
+		escreva("O funcionario: " + funcionario + " vendeu o total de : " + total + "com a media de: "  + media + "ao mês")
+	}
+}
