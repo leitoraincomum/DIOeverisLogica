@@ -1,0 +1,20 @@
+Resolução: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+INICIO-PINGUINS
+	Colocar o filhote verde no gelo
+	Colocar o adulto verde no gelo
+	Ir para o outro lado
+	Deixar o adulto verde e voltar com o filhote verde
+	Colocar o filhote vermelho junto com o filhote verde
+	Ir para o outro lado
+	Deixar o filhote verde e voltar com o filhote vermelho
+	Colocar o adulto vermelho no gelo
+	Ir para o outro lado
+	Deixar o adulto vermelho e voltar com o filhote vermelho
+	Colocar o filhote azul no gelo
+	Deixar o filhote vermelho e voltar com o filhote azul
+	Colocar o adulto azul no gelo
+	Ir para o outro lado
+	Tirar o adulto azul do gelo
+	Tirar o filhote azul do gelo
+ FIM-PINGUINS
