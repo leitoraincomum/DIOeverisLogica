@@ -1,0 +1,77 @@
+Algoritmo do meu dia: do início do dia até a hora de dormir.
+  
+  INICIO-DIA
+    Acordar
+    Espreguiçar
+    Levantar
+    Ir até o banheiro
+    Pegar a escova de dentes
+    Pegar a pasta de dente
+    Colocar pasta na escova
+    Molhar a boca e a escova
+    Escovar os dentes
+    Enxaguar a boca e a escova
+    Secar o rosto e a escova
+    Ir para o quarto
+    Trocar de roupa
+    Ir até a cozinha
+    Pegar a panela para ferver água
+    Encher a panela de água
+    Acender a boca do fogão
+    Colocar a água para ferver
+    Pegar a chaleira para coar café
+    Pegar o coador de café
+    Pegar o filtro de café
+    Colocar o filtro no coador
+    Pegar o pó de café
+    Colocar pó de café no coador
+    Guardar o pó de café
+    Aguardar a água ferver
+    Colocar a água fervente no coador para passar o café
+    Aguardar o café coar
+    Pegar leite na geladeira
+    Pegar a caneca no armário
+    Colocar leite na caneca
+    Abrir o microondas
+    Colocar a caneca para esquentar no microondas
+    Pegar açucar no armário
+    Pegar a colher na gaveta
+    Tirar a caneca do microondas e acrescentar café
+    Adoçar o café com leite
+    Tomar café da manhã
+    Lavar a louça
+    Colocar água e comida para os gatos
+    Acordar o filho
+    Ir tomar banho
+    Sair do banho, me secar e trocar de roupa
+    Passar perfume
+    Arrumar a mochila
+    Me despedir do filho
+    Sair de casa para ir trabalhar
+    Caminhar até a estação de trem
+    Aguardar o trem
+    Embarcar no trem
+    Desembarcar do trem
+    Caminhar até o trabalho
+    Abrir o armário
+    Guardar as coisas
+    Fechar o armário
+    Bater o cartão
+    Trabalhar por 9 horas
+    Bater o cartão
+    Abrir o armário
+    Pegar minhas coisas
+    Fechar o armário
+    Caminhar até a estação de trem
+    Aguardar o trem
+    Embarcar no trem
+    Desembarcar do trem
+    Caminhar até minha casa
+    Entrar em casa
+    Ir para o banheiro
+    Tomar banho
+    Sair do banheiro
+    Me secar e colocar pijama
+    Deitar
+    Dormir
+  FIM-DIA
