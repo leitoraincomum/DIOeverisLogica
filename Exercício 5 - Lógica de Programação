@@ -1,0 +1,26 @@
+programa
+{
+	funcao inicio()
+	{
+		inteiro contador, limite, resultado, tabuada
+		
+		contador = 0
+		limite = 0
+
+		escreva("Qual tabuada você quer que seja resolvida?")
+		leia(tabuada)
+
+		escreva("Até qual número deseja calcular?")
+		leia(limite)
+		
+		faca{
+
+			resultado = tabuada * contador
+			escreva(" tabuada + " x " + contador + " = " + resultado + "\n")
+			contador ++
+
+		}enquanto(contador<=limite)
+		
+		
+	}
+}
